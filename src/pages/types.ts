@@ -1,6 +1,6 @@
 export enum CellType {
-    CELL,
-    START,
-    END,
-    BLOCKER
+  CELL,
+  START,
+  END,
+  BLOCKER,
 }
