@@ -9,7 +9,7 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
-      <Grid height={30} width={80} />
+      <Grid height={30} width={60} />
     </main>
   );
 }
